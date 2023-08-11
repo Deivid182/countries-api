@@ -39,8 +39,8 @@ Alternatively, you can use a tool like [FireShot](https://getfireshot.com/) to t
 
 ### Links
 
-- Code: [Add solution URL here](https://your-solution-url.com)
-- Demo: [Add live site URL here](https://your-live-site-url.com)
+- Code: [Add solution URL here](https://github.com/Deivid182/countries-api)
+- Demo: [Add live site URL here](https://fluffy-rabanadas-0fe44a.netlify.app/)
 
 ## My process
 
