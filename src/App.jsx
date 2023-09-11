@@ -5,14 +5,12 @@ import CountryDetails from './pages/country-details'
 
 const App = () => {
   return (
-    <>
-      <Routes>
-        <Route path='/' element={<Layout />}>
-          <Route index element={<AllCountries />} />
-          <Route path='country/:cca2' element={<CountryDetails />} />
-        </Route>
-      </Routes>
-    </>
+    <Routes>
+      <Route path='/' element={<Layout />}>
+        <Route index element={<AllCountries />} />
+        <Route path='country/:cca2' element={<CountryDetails />} />
+      </Route>
+    </Routes>
   )
 }
 
